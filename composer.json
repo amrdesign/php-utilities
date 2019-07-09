@@ -1,0 +1,16 @@
+{
+  "name": "amrdesign/php-utilities",
+  "description": "Easy MySQLi library",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "amrdesign",
+      "email": "web@amr-design.net"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  }
+}
